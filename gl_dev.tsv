@@ -1,0 +1,400 @@
+profundo	A	1-1	emoción profunda .	un profundo transo .	T
+profundo	A	2-2	unha ferida profunda .	unha masaxe profunda .	T
+profundo	A	3-2	as diferenzas son profundas .	unha mente profunda .	T
+frío	N	2-1	entra do frío .	o frío é un vasoconstritor .	T
+alegre	A	2-4	un saúdo alegre .	unha sala de sol alegre .	T
+civil	A	1-2	roupa civil .	un casamento civil .	T
+rápido	A	2-2	un coche rápido .	un movemento rápido .	T
+interior	A	11-8	o manuscrito de beethoven parece un rexistro sanguento dunha tremenda batalla interior (leonard bernstein) .	pensa que non ten alma , nin vida interior , pero a verdade é que non ten acceso a ela .	T
+aberto	A	3-2	deixaron a porta aberta .	unha porta aberta .	T
+elegante	A	1-1	un elegante traxe escuro .	unha elegante solución matemática- é simple , precisa e lúcida .	T
+ver	V	1-1	ela ve isto de forma moi distinta de min .	non vexo a situación tan negativamente como tu .	T
+ver	V	0-0	ver unha exposición .	ver unha película .	T
+pálido	A	2-1	a prosa pálida co feble brillo da pelve .	unha pálida orquídea da aria .	T
+só	R	3-3	o neno quedou só na casa .	o piar quedou só , sen apoiar nada .	T
+usado	A	2-2	os petos usados do abrigo .	un traxe usado .	T
+tropical	A	1-1	froita tropical .	illas tropicais .	T
+bo	A	8-1	o millo e os tomates de hoxe son bos .	que bo compañeiro es , e todos pensamos que es tan mao .	T
+bo	A	1-2	un bo coitelo é algo bo para cortar .	un vestido bo para a oficina .	T
+bo	A	1-1	un bo día .	un bo vestido .	T
+sucio	A	1-3	palabras sucias .	ten unha boca sucia .	T
+sucio	A	3-0	rimas de pratos sucios .	sucias beirarrúas sen varrer .	T
+sucio	A	0-4	sucias beirarrúas .	un neno cun mono sucio .	T
+real	A	3-1	a vida é real ! a vida é seria ! (longfellow).	obxectos reais .	T
+real	A	1-5	persoa real , non fantasmas .	un filme baseado na vida real .	T
+real	A	1-1	prezos reais .	renda real .	T
+mellor	A	4-5	a súa saúde está mellor agora .	agora a súa saúde é mellor .	T
+mellor	A	2-1	ela é mellor en matemáticas que en historia .	es mellor home do que eu , gunga din .	T
+cómodo	A	2-1	casas suburbanas cómodas .	sénteste cómodo agora ?.	T
+mellor	R	2-3	eu sei mellor .	o pai sabe mellor .	T
+seguro	A	3-2	afrontou unha morte segura .	el estaba seguro do fracaso .	T
+seguro	A	2-0	estaba moi seguro das súas crenzas .	seguro dos seus amigos .	T
+seguro	A	1-4	estaba seguro de fallar .	nesta vida nada é seguro , agás a morte e os impostos (benjamin franklin) .	T
+máis	R	0-0	máis fermosa .	máis interesante .	T
+agradable	A	3-5	pasamos unha noite agradable xuntos .	pasamos unha noite xuntos moi agradable .	T
+directo	A	2-2	a pregunta directa .	unha visión directa .	T
+único	A	1-1	fillo único .	o único médico en todo o condado .	T
+directo	A	2-2	un voo directo .	unha ruta directa .	T
+incerto	A	3-1	moverse con pasos incertos (ou incertos) .	un incerto sorriso .	T
+incerto	A	8-4	sen máis evidencia a súa historia debe permanecer incerta .	un manuscrito de orixe incerta .	T
+definido	A	2-2	un olor definido de trementina .	un sabor definido .	T
+definido	A	2-2	unha caída definida na atención .	unha cantidade definida .	T
+correcto	A	4-2	faga o que é correcto e conféseo .	fai o correcto e confesa .	T
+estándar	A	2-4	un referente estándar .	un traballo de referencia estándar .	T
+fino	A	1-3	choiva fina .	madeira de gran fino .	T
+final	A	1-2	insulto final .	o destino final do home .	T
+final	N	1-2	o final do peirao .	sinalou o final do fío .	T
+saudable	A	2-2	un ambiente saudable .	un clima saudable .	T
+tardío	A	2-2	tiña almorzo tardío .	un filme tardío .	T
+ben	R	3-2	os nenos comportábanse ben .	unha tarefa ben feita .	T
+ben	A	3-3	parece estar moi ben .	penso que estou ben; polo menos síntome ben .	T
+profesional	A	4-1	comezou a súa carreira profesional despois das olimpíadas .	futbolista profesional .	T
+profesional	A	1-3	comportamento profesional .	un funcionamento totalmente profesional .	T
+profesional	A	4-2	o home ou muller profesional posúe cualificacións distintivas .	un cociñeiro profesional; .	T
+convencional	A	2-1	as formas convencionais dos enderezos .	sabedoría convencional .	T
+verdadeiro	A	2-0	o seu verdadeiro motivo .	verdadeiro dilema .	T
+atractivo	A	3-4	engadiu unha figura atractiva e memorable á mitoloxía popular estadounidense (vincent starrett) .	un sentido do humor atractivo .	T
+atractivo	A	3-2	o seu sorriso atractivo .	unha perspectiva atractiva .	T
+atractivo	A	4-3	un libro con ilustracións atractivas .	un mozo moi atractivo .	T
+oficial	A	2-1	un representante oficial .	visita oficial .	T
+libre	A	1-0	expansión libre .	libre de expansión .	T
+libre	A	0-0	libre de racismo .	libre empresa .	T
+libre	A	0-2	libres de osíxeno .	un electrón libre .	T
+crítico	A	2-2	unha lectura crítica dos feitos .	unha lectura crítica .	T
+xusto	A	4-4	a oración dun home xusto vaite moito- xaime 5:16 .	o rezo dun home xusto ten moito valor (james_5:16) .	T
+raro	A	4-2	o que é tan raro como un día en june-j.r.lowell .	unha habilidade rara .	T
+raro	A	4-2	un castigo cruel e raro .	un meteorito raro .	T
+apagado	A	3-3	que triste e apagado é o mundo .	un gran home apagado e aburrido .	T
+apagado	A	3-2	unha campaña política apagada .	uns días apagados sen nada que facer .	T
+común	A	5-2	o que segue o procedemento común .	un mariñeiro común .	T
+común	A	2-2	un problema común .	unha marca común de xabón .	T
+familiar	A	3-10	os obxectos comúns familiares atopados en cada casa .	un día como calquera outro cheo de deberes e experiencias familiares .	T
+familiar	A	5-7	todo parecía moi tranquilo e familiar .	un autor de novelas melodramáticas aínda moi familiares para o seu gusto .	T
+malo	A	0-4	mala sorte .	o filme foi unha mala elección .	T
+malo	A	3-3	o salario é malo .	roupa nun estado malo .	T
+malo	A	2-4	un corte malo .	un neno un pouco malo .	T
+groso	A	2-2	unha polgada grosa .	unha táboa grosa .	T
+voluntario	A	1-5	homicidio voluntario .	o home é un axente voluntario .	T
+normal	A	2-6	relacións diplomáticas normais .	servir o viño a temperatura ambiente normal .	T
+normal	A	2-3	un neno normal .	un neno perfectamente normal .	T
+indirecto	A	2-2	realizar enquisas indirectas pero lexítimas .	un insulto indirecto .	T
+medida	N	3-3	a policía tomou medidas para reducir a delincuencia .	a situación esixía medidas fortes .	T
+alterado	A	2-9	a política alterada prometeu éxito .	el mirou .. cos ollos nubrados e cunha forma alterada da respiración (charles dickens) .	T
+efémero	A	5-6	a política é un factor efémero na vida (james thurber) .	as casas feitas de palma son efémeras .	T
+listo	A	3-3	a ponte está lista para ser derrubada .	a sopa estará lista nun minuto .	T
+listo	A	1-1	está listo para dimitir .	estou listo para traballar .	T
+listo	A	0-0	listo para a acción .	listo para usar .	T
+continuado	A	2-4	a popularidade continuada das películas do oeste .	para garantir o éxito continuado da guerra .	T
+equívoco	A	5-7	a popularidade é unha coroa equívoca .	a votación tiña unha mensaxe complexa e equívoca (ou ambigua) para as potenciais candidatas femininas .	T
+pechado	A	3-8	as moitas rúas pechadas facían difícil a viaxe .	os nosos veciños espreitaron a través das cortinas pechadas .	T
+pechado	A	5-3	sentou en silencio cos ollos pechados .	tiña os ollos pechados por mor da luz do sol .	T
+actual	A	2-3	a posición actual do buque .	as teorías psicanalíticas actuais .	T
+preguntar	V	1-2	hoxe pregunteille polo seu especial .	tivo que preguntar varias veces .	T
+garantir	V	2-5	a preparación garante o éxito !.	este ovo de niño vai garantir unha boa xubilación para nós .	T
+primeiro	A	1-1	a primeira casa á dereita .	a primeira fase da súa formación .	T
+primeiro	A	3-1	a sección do primeiro violín .	primeira soprano .	T
+primeiro	A	2-1	a súa primeira carreira política .	as primeiras reunións do novo partido .	T
+espacial	A	9-1	a primeira dimensión na que nos concentramos é a espacial .	capacidade espacial .	T
+clásico	A	0-1	clásico .	mitoloxía clásica .	T
+negativo	A	1-1	avaliación negativa .	personalidade negativa .	T
+técnico	A	1-1	informe técnico .	terminoloxía técnica .	T
+técnico	A	1-2	linguaxe técnica .	materias moi técnicas dificilmente axeitadas para o público en xeral .	T
+profesionalización	N	1-0	a profesionalización da guerra .	profesionalización do deporte americano .	T
+moito	R	1-2	disfrutamos moito .	isto axudaría moito .	T
+eficaz	A	5-3	a propaganda escrita é menos eficaz do que os hábitos e prexuízos dos lectores- aldous huxley .	o medicamento é eficaz para parar a tose .	T
+escuro	A	4-7	a propia lei era escura en canto a este punto .	a razón para as súas accións é escura hoxe en día .	T
+escuro	A	1-1	cores escuras como o viño tinto ou o azul mariño .	lentes escuros .	T
+escuro	A	0-3	escuro como un gato negro .	sentado nun recuncho escuro .	T
+lexislativo	A	1-2	consello lexislativo .	o órgano lexislativo .	T
+pago	A	3-2	a publicidade está paga .	un cheque pago .	T
+específico	A	4-2	a quinina é moi específica para a malaria .	un colorante específico é aquel que ten unha afinidade específica para determinados elementos estruturais .	T
+específico	A	1-3	demandas específicas para o traballo .	normas con aplicación específica .	T
+específico	A	3-2	regras con aplicación específica .	unha explicación específica e detallada do accidente .	T
+executivo	A	2-2	a rama executiva .	o poder executivo .	T
+último	A	2-2	a realización última .	o fundamento último .	T
+último	A	1-3	a última vez que vin parís .	ata a súa última moeda .	T
+último	A	2-1	as súas últimas palabras foron unha sorpresa .	os últimos días dos dinosauros .	T
+síncrono	A	1-2	oscilacións síncronas .	un conxunto síncrono de reloxos .	T
+tranquilo	A	3-2	a recuperación foi tranquila .	unha vida tranquila .	T
+tranquilo	A	2-5	as augas tranquilas dunha lagoa .	un lago de auga azul tranquila que reflicte un ceo azul tranquilo .	T
+tranquilo	A	3-1	falaba con voz tranquila .	permaneceu tranquilo durante todo o rebumbio .	T
+caer	V	3-3	a vaca deixou caer o becerro esta mañá .	adán e eva caeron .	F
+caer	V	2-0	as cidades caeron sobre o inimigo .	caen nunha categoría .	F
+verdade	N	2-4	debateron a verdade da proposta .	o avogado cuestionou a verdade da miña conta .	F
+cortar	V	0-0	cortar a fita de gravación .	cortar ao longo da liña punteada .	F
+cortar	V	0-3	cortar un buraco .	o seu opoñente cortoulle cara arriba no queixo .	F
+valor	N	3-1	intentou estimar o valor dos produtos a prezos normais .	ten valores anticuados .	F
+glacial	A	1-4	depósito glacial .	un aperto de man glacial .	F
+posguerra	A	3-2	a repoboación de posguerra .	reasentamento de posguerra .	T
+adecuado	A	4-1	a súa formación foi adecuada .	foi adecuada para o traballo .	T
+físico	A	8-1	era descoidado , sobre todo na súa aparencia física .	exercicio físico .	T
+reunión	N	1-5	a reunión elixiu a un presidente .	o próximo ano , a reunión será en chicago .	T
+reverencia	N	1-7	a reverencia chinesa cara aos mortos .	os franceses tratan a comida con suave reverencia .	T
+cumio	N	1-1	no cumio da súa carreira .	o cumio da perfección .	T
+cumio	N	1-5	o cumio da súa ambición .	o verán estaba no seu cumio .	T
+simbólico	A	1-1	lóxica simbólica .	operacións simbólicas .	T
+incompetente	A	5-3	a rodaxe era imposible e incompetente .	o servizo secreto incompetente .	T
+estraño	A	3-3	utiliza moitas palabras estrañas .	vin moitas caras estrañas entre a multitude .	T
+ruptura	N	2-1	houbo unha ruptura polos membros descontentos .	unha ruptura da familia e do barrio .	T
+frontal	A	1-2	movemento frontal .	unha caída frontal polas escaleiras .	T
+frontal	A	2-2	un ataque frontal .	unha colisión frontal .	T
+equilibrado	A	3-6	a seisada coidadosamente equilibrada .	o home educado mostra un desenvolvemento equilibrado de todos os seus poderes .	T
+digno	A	3-7	a súa conduta digna .	o director da escola era un cabaleiro digno de cabelos brancos .	T
+digno	A	2-2	un compañeiro digno .	un home digno .	T
+declarado	A	1-5	liberal declarado .	os seus obxectivos encubertos e declarados .	T
+desenvolver	V	0-2	desenvolver a terra .	o país desenvolveu os seus recursos naturais .	T
+compasivo	A	4-5	a súa familia era compasiva coas súas tentativas de ser escritor .	unha rede de traballo familiar compasivo .	T
+expresión	N	3-0	axudoume a encontrar expresión verbal para as miñas ideas .	expresións de boa vontade .	T
+práctico	A	6-4	a súa idea non tiña aplicación práctica .	é unha persoa moi práctica .	T
+práctico	A	5-2	tallar madeira é unha arte práctica .	un coñecemento práctico do xaponés .	T
+incorrecto	A	4-1	a súa información é incorrecta .	cálculo incorrecto .	T
+inminente	A	2-1	a súa inminente xubilación .	perigo inminente .	T
+incisivo	A	1-3	comentarios incisivos .	tan agudo e incisivo coma o golpe dun escorpión .	T
+imposible	A	2-2	un soño imposible .	unha situación imposible .	T
+construción	N	6-4	o seu principal negocio é a construción de vivendas .	traballadores do sector da construción .	T
+insaciable	A	6-1	a súa paixón polo traballo era insaciable .	apetito insaciable .	T
+pequeno	A	2-1	plans a pequena escala .	un pequeno negocio .	T
+puído	A	3-14	a súa prosa puída .	cun vestido ao que se lle acaba de pasar o ferro e cos zapatos puídos .	T
+danado	A	7-4	a tempestade deixou un rastro de edificios danados .	non vou mercar bens danados .	T
+organizado	A	5-3	a súa vida era demasiado organizada .	ela é moi organizada .	T
+fresco	A	1-1	bebidas frescas .	brisa fresca .	T
+fresco	A	1-5	bicos frescos , blues e violetas .	verdes , azuis e violetas frescos .	T
+tecnocracia	N	1-9	a tecnocracia foi descrita como aquela sociedade en que aqueles que gobernan se xustifican apelando a expertos técnicos que se xustifican apelando ás formas científicas de coñecemento .	é un prexuízo cara á política en beneficio da tecnocracia económica .	T
+impotente	A	12-3	a tecnoloxía sen moralidade é bárbara; a moralidade sen tecnoloxía é impotente .	sentía unha rabia impotente .	T
+rico	A	2-1	non só ricos , senón cargados .	un rico banqueiro .	T
+duro	A	4-3	a vida nómade é dura e perigosa .	país salvaxe e duro cheo de area quente e verdes .	T
+morto	A	4-3	marte é un planeta morto .	o lume está morto .	T
+novo	A	2-1	un ano novo .	un novo amigo .	T
+novo	A	1-1	un novo cometa .	unha nova lei .	T
+obstruído	A	2-3	a xustiza obstruída non é xustiza .	un paso parcialmente obstruído .	T
+punitivo	A	2-1	a xustiza punitiva .	danos punitivos .	T
+pasado	A	2-2	a xuventude pasada .	o ano pasado .	T
+pasado	A	1-3	días pasados .	soños de tempos pasados .	T
+pasado	A	2-1	o xoves pasado .	tempo pasado .	T
+espontáneo	A	1-1	combustión espontánea .	risas espontáneas .	T
+espontáneo	A	4-4	o seu encanto é espontáneo .	un aire de expresión espontánea non estudada adoita ser meticulosamente acadado .	T
+mareiro	A	3-2	abrigada dos ventos mareiros .	un vento mareiro .	T
+comercial	A	1-1	camioneiro comercial .	diamantes comerciais .	T
+comercial	A	1-1	televisión comercial .	transportador comercial .	T
+composto	A	1-2	abrochos compostos .	as follas compostas compóñense de varios lobos .	T
+absolutamente	R	0-2	absolutamente miserábel .	unha pintura absolutamente magnífica .	T
+criminal	A	1-2	abusos criminais .	unha ofensa criminal .	T
+non	R	1-0	ela non vai .	non fala francés .	T
+irresponsable	A	3-4	acción precipitada e irresponsable .	comporteime como un idiota irresponsable .	T
+encuberto	A	1-1	accións encubertas da cia .	financiamento encuberto para os rebeldes .	T
+volátil	A	1-1	aceites volátiles .	disolventes volátiles .	T
+refinado	A	3-3	era delicada , refinada e non lle gustaban as dificultades .	persoas con gusto refinado .	T
+retórico	A	1-6	frapado retórico .	o que el di é simple retórica .	T
+servizo	N	1-0	o servizo do domingo .	servizo dominical .	T
+segundo	A	1-1	frauta segunda .	os segundos violíns .	T
+liña	N	7-6	deixádeme amosarvos os meus gravados é unha liña bastante desgastada .	os historiadores só poden indicar as liñas para as que existen evidencias .	F
+cabeza	N	1-1	a cabeza das escaleiras .	a cabeza do humerus .	F
+cabeza	N	1-5	a cabeza dun cravo , unha cabeza de rosa é a cabeza dun alfinete .	a cervexa tiña unha gran cabeza de escuma .	F
+analítico	A	11-1	'todas as solteironas non están casadas' é unha proposición analítica .	estática analítica .	F
+acción	N	3-6	está fóra de acción .	houbo historias de asasinatos e outras accións antinaturais .	F
+acción	N	4-3	o piano tiña unha acción moi ríxida .	un home de acción .	F
+diplomático	A	6-7	a anfitrioa evitou un enfrontamento cun diplomático cambio de tema .	a anfitriona evitou un enfrontamento cunha chenaxe diplomática de asunto .	T
+arte	N	1-10	na arte nunca fun bo .	o editor foi o responsable de todas as obras de arte do libro .	F
+defensa	N	4-1	deu probas para a defensa .	en defensa , dixo que o outro home comezou .	F
+limpo	A	3-2	pousou unha esquerda limpa na meixela do seu opoñente .	un tiro limpo .	T
+defensa	N	5-2	o saneamento é a mellor defensa contra a enfermidade .	ofreceu unha defensa persuasiva da teoría .	F
+limpar	V	2-3	o dentista limpoume os dentes .	os cirurxiáns deben limparse antes dunha operación .	F
+cirurxía	N	3-3	é profesor de cirurxía na harvard medical school .	morreu durante unha cirurxía .	F
+base	N	1-3	as bases inclúen óxidos e hidróxidos de metais e amoníaco .	construíuse sobre unha base de rocha sólida .	F
+base	N	1-5	as bases inclúen óxidos e hidróxidos de metais e amoníacos .	o ataque acabou coas nosas bases .	F
+vida	N	3-4	esperou unha nova vida en australia .	nomeouse emperador de por vida .	F
+vida	N	2-5	non hai vida na lúa .	o seu heroísmo salvou unha vida .	F
+vida	N	5-0	os océanos están cheos de vida .	vida social .	F
+cubrir	V	0-3	cubrir a carne con moitas alerxias .	ela está a cubrir a nosa secretaria que está doente esta semana .	F
+ancho	A	1-2	un ancho río .	unha gravata ancha .	T
+velado	A	1-1	bailarín velado .	insultos velados .	T
+fino	A	4-1	unha blusa de seda fina .	unha fina capa de pintura .	T
+incurable	A	2-2	o vicio incurable de fumar .	unha enfermidade incurable .	T
+integral	A	1-2	cobertura integral .	unha educación integral .	T
+acuático	A	4-2	os barcos son vehículos acuáticos .	un ambiente acuático .	F
+cubrir	V	2-4	esta pintura cobre ben .	isto é suficiente para cubrir o cheque ?.	F
+cubrir	V	3-4	o segundo oficial cubría o piso superior .	o smith volveu a cubrirse .	F
+ver	V	2-1	a cámara viu o roubo e gravouno .	a ver se podes vir mañá .	F
+casa	N	5-5	eles recadan diñeiro para proporcionar casas para os sen fogar .	eles recadaron fondos para proporcionar casa aos sen teito .	T
+casa	N	15-3	as tarifas canadenses permitiron ás empresas madeireiras dos estados unidos subir os prezos nas súas casas .	el ten unha casa en cape cod .	F
+casa	N	5-8	entregar o paquete na miña casa .	o profesor preguntoulle cantas persoas formaron a súa casa .	F
+aire	N	10-5	a radioactividade estaba sendo varrida cara arriba pola corrente de aire e cara á atmosfera .	a súa man detívose no aire .	F
+ir	V	1-7	como vai no seu novo traballo ?.	el garda a tenda cando eu me for .	F
+persoal	A	2-1	a hixiene persoal .	magnetismo persoal .	F
+sección	N	8-4	a historia deste traballo é discutida na seguinte sección .	sempre vai primeiro á sección de negocios .	T
+sección	N	1-2	as seccións do ventrículo esquerdo mostraban tecido enfermo .	comeu unha sección da laranxa .	F
+oficial	A	2-1	a igrexa oficial chinesa .	prioridades oficiais .	F
+imaxe	N	4-6	proporcionou a américa unha imaxe do bo pai .	unha película é unha serie de imaxes proxectadas tan rapidamente que o ollo as integra .	F
+lugar	N	3-2	perdeu o seu lugar na páxina .	vén dun lugar preto de chicago .	F
+vivo	A	2-3	a imaxe viva da súa nai .	dentro da memoria viva .	F
+único	A	5-2	sobre o outeiro había unha única torre .	un servizo único .	T
+facer	V	3-1	catro e catro fan oito .	ela fai de actriz .	F
+descoidado	A	0-4	descoidado coas súas roupas .	foi un erro por descoidado .	T
+descoidado	A	1-3	cabelo descoidado .	tiña un aspecto descoidado cunha barba de dous días .	T
+facer	V	4-2	como se está a facer na escola de posgrao ?.	este coche fai 150 millas por hora .	F
+facer	V	0-0	facer amigos .	facer leis .	F
+traballar	V	3-2	o candidato político traballou a multitude .	o neno traballaba na mesa de multiplicar ata que arrefriou .	F
+bater	V	1-2	el bateulle con forza na cara .	el tenta bater en mulleres en bares .	F
+pasar	V	2-2	o insulto pasou coma se fose inadvertido .	o que pasa ?.	F
+pasar	V	2-2	o profesor pasou ao alumno , aínda que el era feble .	o smith pasou .	F
+pasar	V	2-0	os nenos pasan fame ese día .	pasaron tres anos .	F
+parte	N	5-5	analizaron o río en tres partes .	as relixións en todas as partes do mundo .	F
+parte	N	3-5	intentou cantar a parte de tenor .	iso require vixilancia da nosa parte .	F
+parte	N	7-0	o goberno ten que facer a súa parte .	parte escrita do exame .	F
+terra	N	2-5	regresou á terra do seu nacemento .	xa non hai traballo na terra .	F
+man	N	4-1	o cabalo tiña 20 mans .	unha man de rancho .	F
+man	N	4-4	non tiven unha boa man toda a noite .	quería probar a súa man para cantar .	F
+silábico	A	1-1	acento silábico .	o silábico 'nl' en 'enigma' .	F
+cambio	N	8-1	esta tormenta é , sen dúbida , un cambio para peor .	houbo cambios marcados no revestimento dos pulmóns .	F
+disposición	N	4-2	aceptou de acordo cunha disposición .	cambiou a disposición dos temas .	F
+próximo	A	4-5	hai noticias da súa próxima chegada .	ten interese nas metas máis próximas no canto das máis afastadas .	T
+pouco	N	2-2	aceptou o pouco que lle deron .	só un pouco .	F
+segundo	N	2-4	achegouse nun segundo .	estou a ouvir un segundo ?.	F
+aclarar	V	0-0	aclarar a cuestión de quen ten a culpa .	aclarar a manteiga .	F
+desxeo	N	2-1	acolleron o desxeo da primavera .	o desxeo entre os estados unidos e a rusia conduciu a unha maior cooperación nos asuntos mundiais .	F
+proba	N	4-1	acordaron poñer fin ás probas de armas atómicas .	as probas para as semifinais comezaron onte .	F
+proba	N	2-6	cando a proba foi roubada , o profesor tivo que facer un novo conxunto de preguntas .	chamou a cada lanzamento dunha nova proba .	F
+proba	N	3-5	hai laboratorios para probas comerciais .	o seu tremor era a proba do seu medo .	F
+actividade	N	0-0	actividade catalítica .	actividade respiratoria .	F
+actividade	N	0-4	actividade volcánica .	eles evitan todas as actividades recreativas .	F
+actividade	N	3-3	evita todas as actividades recreativas .	o nivel de actividade diminúe coa idade .	F
+académico	A	1-1	actividades académicas .	curriculum académico .	F
+motivo	N	4-1	actuou co mellor dos motivos .	con motivo do seu 60 aniversario .	F
+motivo	N	2-1	non tiña motivos para queixarse .	os motivos da súa declaración .	F
+legal	A	1-1	lagoa legal .	métodos legais de discordia .	F
+adestrar	V	0-1	adestra a vide .	está adestrando para as olimpíadas .	F
+administrar	V	0-0	administrar a última unidade .	administrar un programa .	F
+campaña	N	3-2	administrei a súa campaña para gobernador .	apoiou as campañas populistas .	F
+consciente	A	1-1	era consciente da hostilidade do seu opoñente .	era consciente do seu entorno .	T
+consciente	A	2-2	un esforzo consciente para falar máis lentamente .	unha política consciente .	T
+ouro	N	2-18	admiraba o ouro do seu cabelo .	mentres que aquilo polo que toda virtude agora se vende , e case todas as vilas , o ouro de ouro de ben jonson .	F
+refinamento	N	2-3	admiraba o refinamento exquisito da súa prosa .	un home de refinamento intelectual .	F
+nacional	A	1-1	intereses nacionais .	orixe nacional .	F
+adolescente	A	0-2	adolescentes e nenas .	problemas de adolescentes .	F
+adoptar	V	0-2	adoptaron a fe xudía .	os deuses adoptan a forma humana ou animal nestas fábulas .	F
+unidade	N	5-12	adoptou medidas para asegurar a unidade territorial de croacia .	despois da batalla , o soldado tivo problemas para volver á súa unidade .	F
+unidade	N	5-4	o adestrador dixo que a unidade ofensiva fixo un bo traballo .	o dólar é a unidade monetaria dos estados unidos .	F
+unidade	N	4-4	o equipo é unha unidade .	reducir o número de unidades e instalacións .	F
+verbal	A	1-1	"adxectivos verbais como ""correr"" en ""auga corrente quente e fría"" ."	contrato verbal .	F
+afectar	V	0-2	afectaranme as novas normas ?.	o medicamento afecta a miña frecuencia cardíaca .	F
+bar	N	9-4	foi unha excelente patada pero a pelota golpeou o bar .	o bote encallou nun bar mergullado do río .	F
+ecuatorial	A	1-1	áfrica ecuatorial .	calor ecuatorial .	F
+sinal	N	2-3	agardaba o sinal para comezar .	e acolleron os sinais da primavera .	F
+sinal	N	2-1	non había sinais de desesperación .	os sinais do barco detivéronse de súpeto .	F
+gañar	V	4-4	o equipo local estaba gañando terreo .	o mercado de accións gañou hoxe 24 puntos .	F
+nariz	N	3-3	agochouse baixo o nariz da pistola .	non metas o nariz .	F
+nariz	N	5-8	o can ten un bo nariz .	o meu cabalo perdeu a carreira por un nariz .	F
+nariz	N	1-3	o nariz do foguete quentábase na reentrada .	ten frío no nariz .	F
+paciente	N	6-3	agora tentan acurtar a hospitalización do paciente .	o número de pacientes de emerxencia creceu rapidamente .	F
+resumir	V	2-2	agora vou resumir .	o resumo resume as ideas principais do texto .	F
+intensivo	A	1-2	agricultura intensiva .	un adverbio intensivo .	F
+disparo	N	5-1	aínda se está recuperando dun disparo na perna .	o disparo pasou voando sobre a súa orella .	F
+revisar	V	2-1	alguén debería revisar este informe antes de saír .	imos revisar a súa situación .	F
+navegar	V	2-0	alguén quere navegar durante a viaxe ?.	navegar por internet ou a web do mundo .	F
+navegar	V	1-0	encántame navegar , sobre todo no mar aberto .	navegue por un directorio do computador .	F
+futuro	A	1-0	algún futuro historiador o avaliará .	futuro auxiliar .	F
+comercializar	V	3-4	algunhas persoas deshonradas comercializaron o seu modo de vida .	os propietarios do hotel comercializan as praias .	F
+detalle	N	1-2	algúns detalles son similares .	enviouse un detalle para quitar as árbores caídas .	F
+detalle	N	5-4	foi perfecto en todos os detalles .	o ensaio contiña demasiados detalles .	F
+construír	V	2-0	algúns excéntricos construíron un brassiere eléctrico máis quente .	construír un triángulo equilátero .	F
+construír	V	0-4	construír unha frase .	o goberno está a construír novas escolas neste estado .	F
+aliviar	V	0-0	aliviar a dor nas pernas .	aliviar a presión e o estrés .	F
+oficina	N	2-1	alugou unha oficina no novo edificio .	as oficinas da misa .	F
+crepúsculo	N	2-1	amaba o crepúsculo .	no crepúsculo do imperio .	F
+reservar	V	2-2	amañámonos para reservar unha mesa en downton's .	o axente reservou billetes para o espectáculo para toda a familia .	F
+reservar	V	0-1	reservar un asento nun voo .	vou reservar este diñeiro para a súa investigación .	F
+renunciar	V	5-0	ambas as partes teñen que renunciar a algunhas afirmacións nestas negociacións .	renunciar a reclamar o trono .	F
+platónico	A	1-1	amor platónico .	diálogos platónicos .	F
+tenda	N	5-4	ana mercou un vestido na tenda da esquina .	el trouxen unha gran tenda de charutos cubanos .	F
+microscópico	A	1-3	análise microscópica .	as diferenzas son microscópicas .	F
+microscópico	A	1-3	exame microscópico .	examinado con coidado microscópico .	F
+racional	A	1-1	análise racional .	números racionais .	F
+celestial	A	1-1	anfitrións celestiais .	paz celestial .	F
+tropical	A	1-1	ano tropical .	clima tropical .	F
+circo	N	7-7	aos nenos sempre lles encanta ir ao circo .	fuxiu da casa para se unir ao circo .	F
+circo	N	6-8	era tan divertido que era un circo .	usaron os elefantes para axudar a montar o circo .	F
+aparcar	V	0-2	aparcar o coche no patio .	é perigoso aparcar outro vehículo .	F
+cirúrxico	A	1-1	apéndice cirúrxico .	instrumentos cirúrxicos .	F
+aplicación	N	0-2	aplicación do impulso máximo .	intentou varias aplicacións de procesamento de texto .	F
+apoiar	V	0-1	apoiar un novo proxecto .	non apoia aos seus fillos naturais .	F
+apoiar	V	1-3	eu apoiei a kennedy en 1960 .	o meu garaxe apoia o patio deles .	F
+apoiar	V	2-Non atopado	non podo apoiar este plano .	olivier apoiou a gielgud no segundo acto .	F
+psicolóxico	A	1-1	apoio psicolóxico .	teorías psicolóxicas .	F
+feito	N	8-6	apoiou o seu argumento cunha impresionante variedade de feitos .	primeiro ten que recoller todos os feitos do caso .	F
+mostrar	V	6-4	aposta 2 no número 6 para mostrar .	o exame de sangue mostrou que el era o pai .	F
+tolerar	V	2-2	aprendeu a tolerar a calor .	non podemos tolerar fumar no hospital .	F
+tolerar	V	3-2	o paciente non tolera os medicamentos antiinflamatorios que lle demos .	temos que tolerar as relixións dos outros .	F
+gran	N	2-4	area dun gran fino .	o trigo é un gran que se cultiva en kansas .	F
+fráxil	A	5-2	o corpo dun discapacitado é fráxil .	o corpo fráxil dun inválido .	T
+recreativo	A	1-1	área recreativa cunha piscina e campos de pelota .	golfiños recreativos .	F
+referencia	N	3-6	argumentou que a referencia é unha consecuencia de reflexos condicionados .	levaba de volta unha chea de referencias ó seu escritorio .	F
+estratéxico	A	1-4	arma estratéxica .	un movemento de xadrez estratéxico .	F
+tónico	A	1-1	armonía tónica .	reflexo tónico .	F
+dramático	A	1-1	arte dramática .	tenor dramático .	F
+comunicativo	A	1-3	artes comunicativas .	era unha persoa comunicativa e axiña dixo todo o que sabía: w.m.thackeray .	F
+falar	V	2-2	as accións falan máis alto que as palabras .	os tambores falaban .	F
+indicativo	A	3-1	as accións son indicativas do medo .	estándar indicativo .	F
+obstaculizar	V	2-3	as árbores obstaculizan a miña visión das montañas .	o mal tempo obstaculizouno nos seus esforzos .	F
+disparar	V	0-2	dispara unha estrela .	o dragón disparou fumes e chamas da súa boca .	F
+autoridade	N	1-0	as autoridades emitiron un folleto .	autoridade do val de tennessee .	F
+autoridade	N	2-2	é unha autoridade sobre a lei corporativa .	falaba con autoridade .	F
+autoridade	N	5-2	o asunto foi remitido a autoridades superiores .	ten a autoridade para emitir mandados .	F
+arruinar	V	2-3	as bágoas arruinaron a maquillaxe .	este comportamento vai arruinar as súas posibilidades de gañar as eleccións .	F
+asubiar	V	2-1	as balas asubiaban ao seu carón .	ela asubiou para a criada .	F
+asubiar	V	1-6	ela asubiou unha melodía .	quedou alí deitado , gruñindo e asubiando .	F
+soprar	V	4-2	dicíase que algúns insectos sopraban .	o asubío soprou .	F
+urbano	A	3-1	as boas maneiras urbanas .	socioloxía urbana .	F
+atómico	A	2-1	as bombas atómicas .	estrutura atómica .	F
+copia	N	5-2	as catástrofes fan unha boa copia .	fixo unha copia do vestido de deseñador .	F
+atacar	V	5-3	as células cancerosas están a atacar o fígado .	as forzas serbias atacaron as cidades de bosnia durante toda a semana .	F
+atacar	V	1-6	hitler atacou polonia o 1 de setembro de 1939 e comezou a segunda guerra mundial .	os editores do xornal de esquerda atacaron o novo presidente da cámara .	F
+chamada	N	1-3	as chamadas do pastor ás súas parroquias .	contou con varias chamadas anónimas .	F
+clase	N	1-1	as clases de mañá sempre son somnolentas .	recibiu clases de conducción .	F
+clase	N	2-2	existen dúas clases de deterxentes .	ten moita clase .	F
+coroa	N	5-7	as colonias rebeláronse contra a coroa .	mañá o meu dentista vaime poñer unha coroa .	F
+monumental	A	2-6	as contribucións monumentais de einstein á física .	o uso do arco na arquitectura monumental .	F
+mesturar	V	2-2	as cores mestúranse ben .	con recursos mesturaba música e danza .	F
+interese	N	5-6	as cores primarias poden engadir interese a unha sala .	conta a lectura entre os seus intereses .	F
+interese	N	0-5	interese pola música .	non dixo nada de grande interese .	F
+cousa	N	1-1	as cousas de heros .	as cousas van ben .	F
+cousa	N	4-3	como puideches facer tal cousa ?.	el ten unha cousa sobre marisco .	F
+cousa	N	2-1	empaquetou as cousas e marchou .	esta cousa ten que acabar .	F
+administración	N	6-3	as cousas estaban tranquilas durante a administración eisenhower .	din que a administración actual é corrupta .	F
+deliberación	N	1-4	as deliberacións do xurado .	era un home de deliberación xudicial .	F
+racial	A	2-1	as diferenzas raciais .	grupos raciais .	F
+recoñecemento	N	5-8	as disputas territoriais resolvéronse co recoñecemento de belize por parte de guatemala en 1991 .	houbo un intercambio de disparos nunha misión de recoñecemento .	F
+recoñecemento	N	9-1	ela debeu velo , pero non deu sinal de recoñecemento .	o recoñecemento molecular impulsa toda a bioloxía , por exemplo , as interaccións hormonal e receptora ou anticorpo-antíxeno ou a organización de moléculas en entidades bioloxicamente activas máis grandes .	F
+recoñecemento	N	4-15	o prefacio contiña un recoñecemento dos que a axudaran .	os psicólogos experimentais miden o tempo transcorrido desde a aparición do estímulo ata o seu recoñecemento polo observador .	F
+coincidir	V	4-3	as dúas historias non coinciden en moitos detalles .	os dous acontecementos coincidiron .	F
+coincidir	V	6-3	as impresións dixitais do sospeitoso non coinciden coas da arma .	os dous filósofos coinciden neste punto .	F
+acordo	N	5-3	as dúas partes estiveron de acordo .	foi asinado un acordo entre a unión europea e o mercosur .	F
+acordo	N	2-2	había un acordo entre a dirección e os traballadores .	tratábase dun acordo global .	F
+hierático	A	3-1	as esculturas máis hieráticas deixan ao espectador estrañamente inmóbil .	xestos hieráticos .	F
+esquina	N	1-2	as esquinas dun rectángulo .	borrou as esquinas .	F
+esquina	N	3-3	de pé na esquina a ver todas as nenas pasar .	triplicouse ata a esquina da dereita .	F
+té	N	9-2	as estantes da tenda albergaban moitos tipos diferentes de té .	atopámonos no té do dean para os recén chegados .	F
+té	N	2-1	lanzaron o té para o porto de boston .	o té ten flores brancas aromáticas .	F
+control	N	3-1	nunca perdeu o control de si mesma .	o control da mafia por parte da policía era admirable .	F
+servir	V	2-3	as estudantes serviron de grupo de control .	as mulleres estudantís serviron como grupo de control .	T
+servir	V	4-1	o tronco da árbore serve de mesa .	podo servila ?.	F
+estético	A	2-1	as facultades estéticas .	valores estéticos .	F
+curar	V	2-2	as feridas curan lentamente .	os albaricoques curan no sol .	F
+perfumar	V	4-0	as flores de laranxa perfuman o aire no xardín .	perfuma cada día .	F
+social	A	4-1	as formigas son insectos sociais .	evolución social .	F
+social	A	3-1	comportamento maduro e social .	institucións sociais .	F
+comparación	N	5-2	as fraccións seleccionadas para a comparación deben ter en conta tanto o numerador como o denominador .	non hai comparación entre os dous libros .	F
+enterrar	V	3-0	as mulleres afganas enterradas baixo as súas burkas .	enterraron os bens roubados .	F
+dispersar	V	2-1	as multitudes dispersáronse .	partículas dispersadas .	F
+programa	N	5-4	as nais traballadoras dependen do programa de atención ao día .	foi admitido nun novo programa na universidade .	F
+programa	N	9-1	gañaron as eleccións a pesar de non ofreceren un programa positivo .	o programa durou máis de dúas horas .	F
+programa	N	8-3	non se pode dicir aos xogadores sen un programa .	propuxo un elaborado programa de obras públicas .	F
+auga	N	2-5	as nosas augas territoriais foron invadidas .	el pediu un copo de auga .	F
+esgotar	V	6-5	as nosas provisións acabaron por se esgotar .	este tipo de traballo me esgota .	F
+esgotar	V	1-1	nós esgotamos os nosos aforros .	xa esgotamos o abastecemento de alimentos .	F
+profesión	N	7-0	as noticias difundíronse rapidamente a través da profesión médica .	profesión de desacordo .	F
+axudar	V	5-2	as novas cubertas de armarios axudarán aos antigos mobles da sala de estar .	estas pílulas axudarán ao paciente .	F
+axudar	V	2-1	este diñeiro axudará ao desenvolvemento da alfabetización nos países en desenvolvemento .	isto axudará a evitar accidentes .	F
+corrixir	V	5-0	as novas lentes de contacto corrixirán a súa miopía .	corrixir a curva .	F
+lapis	N	5-1	as palabras estaban escritas a lapis .	un lapis de lavanda .	F
+espertar	V	3-3	as súas palabras espertáronnos con terribles feitos da situación .	esta película adoita espertar o público masculino .	F
+temperán	A	2-2	pola mañá temperán .	un diagnóstico temperán .	T
